@@ -26,9 +26,4 @@ modis_cloud=read_modisbin(working_directory,filename,2030,1354)
 modis_lat=read_modisbin(working_directory,latitude,2030,1354)
 modis_long=read_modisbin(working_directory,longitude,2030,1354)
 
-#plt.imshow(modis_cloud)
-#plt.colorbar()
-#plt.show()
-
-
 
